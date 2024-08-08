@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:forms_design/Forms.dart';
+import 'package:formsdesign/Forms.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 void main() {
